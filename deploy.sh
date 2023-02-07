@@ -6,3 +6,4 @@ mv ~/dist.tar.gz .;
 tar xvzf dist.tar.gz;
 mv  html html.bak
 mv dist html
+
