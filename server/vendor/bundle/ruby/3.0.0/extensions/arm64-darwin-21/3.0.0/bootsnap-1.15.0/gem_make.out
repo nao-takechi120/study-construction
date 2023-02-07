@@ -1,0 +1,18 @@
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+/Users/nao/.rbenv/versions/3.0.5/bin/ruby -I /Users/nao/.rbenv/versions/3.0.5/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-s1dakf sitelibdir\=./.gem.20230201-38137-s1dakf clean
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-s1dakf sitelibdir\=./.gem.20230201-38137-s1dakf
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-s1dakf sitelibdir\=./.gem.20230201-38137-s1dakf install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230201-38137-s1dakf/bootsnap
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.15.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-s1dakf sitelibdir\=./.gem.20230201-38137-s1dakf clean

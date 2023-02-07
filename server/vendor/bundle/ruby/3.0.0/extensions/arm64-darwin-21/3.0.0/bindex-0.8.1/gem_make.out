@@ -1,0 +1,18 @@
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/nao/.rbenv/versions/3.0.5/bin/ruby -I /Users/nao/.rbenv/versions/3.0.5/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-sifr8l sitelibdir\=./.gem.20230201-38137-sifr8l clean
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-sifr8l sitelibdir\=./.gem.20230201-38137-sifr8l
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-sifr8l sitelibdir\=./.gem.20230201-38137-sifr8l install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20230201-38137-sifr8l/skiptrace/internal
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-sifr8l sitelibdir\=./.gem.20230201-38137-sifr8l clean

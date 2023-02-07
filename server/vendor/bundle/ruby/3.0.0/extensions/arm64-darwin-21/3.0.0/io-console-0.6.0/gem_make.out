@@ -1,0 +1,23 @@
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+/Users/nao/.rbenv/versions/3.0.5/bin/ruby -I /Users/nao/.rbenv/versions/3.0.5/lib/ruby/site_ruby/3.0.0 extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... no
+checking for rb_scheduler_timeout()... no
+creating Makefile
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-sejiop sitelibdir\=./.gem.20230201-38137-sejiop clean
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-sejiop sitelibdir\=./.gem.20230201-38137-sejiop
+compiling console.c
+linking shared-object io/console.bundle
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-sejiop sitelibdir\=./.gem.20230201-38137-sejiop install
+/usr/bin/install -c -m 0755 console.bundle ./.gem.20230201-38137-sejiop/io
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-sejiop sitelibdir\=./.gem.20230201-38137-sejiop clean

@@ -1,0 +1,18 @@
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/nao/.rbenv/versions/3.0.5/bin/ruby -I /Users/nao/.rbenv/versions/3.0.5/lib/ruby/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-zzu8sc sitelibdir\=./.gem.20230201-38137-zzu8sc clean
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-zzu8sc sitelibdir\=./.gem.20230201-38137-zzu8sc
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-zzu8sc sitelibdir\=./.gem.20230201-38137-zzu8sc install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20230201-38137-zzu8sc
+
+current directory: /Users/nao/study/study-construction/server/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230201-38137-zzu8sc sitelibdir\=./.gem.20230201-38137-zzu8sc clean
